@@ -58,6 +58,8 @@ boltons @ file:///C:/b/abs_e2_iokhxbp/croot/boltons_1751383740243/work
 botocore @ file:///C:/miniconda3/conda-bld/botocore_1760965317697/work
 Bottleneck @ file:///C:/miniconda3/conda-bld/bottleneck_1761938102004/work
 brotlicffi @ file:///C:/miniconda3/conda-bld/brotlicffi_1762950508507/work
+build==1.4.3
+CacheControl==0.14.4
 cachetools @ file:///C:/b/abs_fcvwpc5vh9/croot/cachetools_1738224687938/work
 catboost==1.2.8
 cattrs @ file:///C:/miniconda3/conda-bld/cattrs_1761729120648/work
@@ -66,6 +68,7 @@ certifi @ file:///C:/Users/task_176765924055489/croot/certifi_1767659363027/work
 cffi @ file:///C:/miniconda3/conda-bld/cffi_1761832792955/work
 chardet @ file:///C:/b/abs_3f08pnpj_d/croot/chardet_1755516293556/work
 charset-normalizer @ file:///C:/miniconda3/conda-bld/charset-normalizer_1761744975868/work
+cleo==2.1.0
 click @ file:///C:/b/abs_bbg7qqz4dk/croot/click_1754477951021/work
 cloudpickle @ file:///C:/b/abs_fdydcrc9_2/croot/cloudpickle_1751309451995/work
 clr_loader==0.2.10
@@ -86,6 +89,7 @@ conda_package_streaming @ file:///C:/miniconda3/conda-bld/conda-package-streamin
 constantly @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/constantly_1729053406505/work
 contourpy @ file:///C:/miniconda3/conda-bld/contourpy_1763643940481/work
 cookiecutter @ file:///C:/b/abs_6ak0be77em/croot/cookiecutter_1751313989831/work
+crashtest==0.4.1
 cryptography @ file:///C:/miniconda3/conda-bld/cryptography-split_1761932023265/work
 cssselect @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/cssselect_1729047831562/work
 cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
@@ -97,16 +101,19 @@ defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 Deprecated==1.3.1
 diff-match-patch @ file:///Users/ktietz/demo/mc3/conda-bld/diff-match-patch_1630511840874/work
 dill @ file:///C:/miniconda3/conda-bld/dill_1760096877594/work
+distlib==0.4.0
 distributed @ file:///C:/miniconda3/conda-bld/distributed_1763105975646/work
 distro @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/distro_1729059153117/work
 docstring-to-markdown @ file:///C:/miniconda3/conda-bld/docstring-to-markdown_1758626863507/work
 docutils @ file:///C:/miniconda3/conda-bld/docutils_1761746640431/work
+dulwich==1.2.0
 et_xmlfile @ file:///C:/b/abs_b0ifp_j3js/croot/et_xmlfile_1756462499666/work
 evalidate @ file:///C:/b/abs_573nc1ymt6/croot/evalidate_1743606028415/work
 executing @ file:///C:/miniconda3/conda-bld/executing_1757061255268/work
 fabric==3.2.2
 fastjsonschema @ file:///C:/miniconda3/conda-bld/python-fastjsonschema_1763718729498/work
-filelock @ file:///C:/miniconda3/conda-bld/filelock_1762419942375/work
+filelock==3.29.0
+findpython==0.7.1
 flake8 @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/flake8_1729054074515/work
 Flask @ file:///C:/b/abs_28dbmjidmh/croot/flask_1756453142071/work
 fonttools @ file:///C:/miniconda3/conda-bld/fonttools_1759754890124/work
@@ -135,6 +142,7 @@ importlib_metadata @ file:///C:/miniconda3/conda-bld/importlib_metadata-suite_17
 incremental @ file:///croot/incremental_1743512672142/work
 inflection @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/inflection_1729054658204/work
 iniconfig @ file:///C:/b/abs_70kaor_ccd/croot/iniconfig_1752653749904/work
+installer==0.7.0
 intake @ file:///C:/b/abs_36v90t4ek6/croot/intake_1752749551025/work
 intervaltree @ file:///Users/ktietz/demo/mc3/conda-bld/intervaltree_1630511889664/work
 invoke==2.2.1
@@ -238,6 +246,7 @@ parso @ file:///C:/miniconda3/conda-bld/parso_1762781952168/work
 partd @ file:///C:/b/abs_e1k4ow1dv4/croot/partd_1736803443606/work
 pathspec @ file:///C:/miniconda3/conda-bld/pathspec_1761820745063/work
 patsy @ file:///C:/b/abs_f9h0eiedk0/croot/patsy_1738159949276/work
+pbs-installer==2026.4.7
 pexpect @ file:///C:/miniconda3/conda-bld/pexpect_1762535956813/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 pillow @ file:///C:/miniconda3/conda-bld/pillow_1762528255883/work
@@ -246,6 +255,8 @@ pkginfo @ file:///C:/b/abs_79p91g_cie/croot/pkginfo_1743184772345/work
 platformdirs @ file:///C:/miniconda3/conda-bld/platformdirs_1762356623609/work
 plotly @ file:///C:/b/abs_8926yyyylu/croot/plotly_1756453681452/work
 pluggy @ file:///C:/b/abs_dfec_m79vo/croot/pluggy_1733170145382/work
+poetry==2.3.4
+poetry-core==2.3.2
 prometheus_client @ file:///C:/b/abs_8b175q_ub8/croot/prometheus_client_1744271638821/work
 prompt_toolkit @ file:///C:/miniconda3/conda-bld/prompt-toolkit_1761745018781/work
 propcache @ file:///C:/b/abs_57780xb0gk/croot/propcache_1744012740137/work
@@ -282,6 +293,7 @@ pyodbc @ file:///C:/miniconda3/conda-bld/pyodbc_1761670569043/work
 pyOpenSSL @ file:///C:/miniconda3/conda-bld/pyopenssl_1762166557109/work
 pyparsing @ file:///C:/miniconda3/conda-bld/pyparsing_1763974011379/work
 pypiwin32==223
+pyproject_hooks==1.2.0
 PyQt5==5.15.11
 PyQt5_sip @ file:///C:/miniconda3/conda-bld/pyqt-split_1764009081060/work/pyqt_sip
 PyQtWebEngine==5.15.7
@@ -289,6 +301,7 @@ PySide6==6.9.2
 PySocks @ file:///C:/miniconda3/conda-bld/pysocks_1761753030965/work
 pytest @ file:///C:/miniconda3/conda-bld/pytest_1758125117201/work
 python-dateutil @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/python-dateutil_1729038406576/work
+python-discovery==1.2.2
 python-dotenv @ file:///C:/b/abs_71cpoh9hpg/croot/python-dotenv_1745613639902/work
 python-json-logger @ file:///C:/b/abs_0cm_mnox0z/croot/python-json-logger_1734370042436/work
 python-lsp-black @ file:///C:/b/abs_56xq_70uqy/croot/python-lsp-black_1744023225294/work
@@ -314,6 +327,7 @@ QtAwesome @ file:///C:/b/abs_f3usq20nxv/croot/qtawesome_1744810809443/work
 qtconsole @ file:///C:/miniconda3/conda-bld/qtconsole_1758748755800/work
 QtPy @ file:///C:/miniconda3/conda-bld/qtpy_1757531176201/work
 queuelib @ file:///C:/miniconda3/conda-bld/queuelib_1762896926171/work
+RapidFuzz==3.14.5
 readchar @ file:///C:/miniconda3/conda-bld/readchar_1760613474723/work
 referencing @ file:///C:/miniconda3/conda-bld/referencing_1762536906371/work
 regex @ file:///C:/miniconda3/conda-bld/regex_1758887965793/work
@@ -387,6 +401,7 @@ toolz @ file:///C:/b/abs_57avamxh36/croot/toolz_1736796279321/work
 tornado @ file:///C:/b/abs_7dzpc171lf/croot/tornado_1748956950306/work
 tqdm @ file:///C:/miniconda3/conda-bld/tqdm_1762863407729/work
 traitlets @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/traitlets_1729038154689/work
+trove-classifiers==2026.1.14.14
 truststore @ file:///C:/miniconda3/conda-bld/truststore_1762521027919/work
 Twisted @ file:///C:/miniconda3/conda-bld/twisted_1762252507674/work
 twisted-iocpsupport @ file:///C:/b/abs_6883jqhfrn/croot/twisted-iocpsupport_1736544552637/work
@@ -396,7 +411,8 @@ typing_extensions @ file:///C:/b/abs_ecq8gc0vbm/croot/typing_extensions_17562811
 tzdata @ file:///croot/python-tzdata_1746123641790/work
 uc-micro-py @ file:///C:/miniconda3/conda-bld/uc-micro-py_1758552131350/work
 ujson @ file:///C:/miniconda3/conda-bld/ujson_1763119279088/work
-urllib3==1.26.20
+urllib3==2.6.3
+virtualenv==21.2.4
 w3lib @ file:///C:/miniconda3/conda-bld/w3lib_1764240224379/work
 watchdog @ file:///C:/b/abs_29_7vso69r/croot/watchdog_1740409940307/work
 wcwidth==0.2.14
